@@ -1,0 +1,6 @@
+﻿{
+  "defaultUserName": "JohnSmith",
+  "defaultUserPassword": "a-random-invalid-password",
+  "defaultServiceIpAddress": "localhost",
+  "defaultServicePort": "8081"
+}
